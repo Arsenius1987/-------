@@ -1,0 +1,63 @@
+
+.container{
+    image-orientation: flip;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    background: #FFFFFF;
+    height: 1024px;
+    width: 1440px;
+    left: 1009px;
+    top: -2286px;
+    border-radius: 0px; 
+
+}
+.shadowbox{
+    display: grid;
+position: absolute;
+width: 360px;
+height: 465px;
+left: 90.03px;
+top: 258.02px;
+background: #DCFFCF;
+box-shadow: 10px 10px 26px rgba(25, 97, 0, 0.5);
+border-radius: 10px;
+  
+}
+.shadowbox1{
+ display: grid;
+position: absolute;
+width: 360px;
+height: 465px;
+left: 540px;
+top: 281px;
+background: #FFFFFF;
+box-shadow: 10px 10px 26px rgba(25, 97, 0, 0.5);
+border-radius: 10px;
+position: absolute;
+
+
+}
+.shadowbox2{ 
+position: absolute;
+width: 360px;
+height: 465px;
+left: 980px;
+top: 281px;
+background: #FFFFFF;
+box-shadow: 10px 10px 26px rgba(25, 97, 0, 0.5);
+border-radius: 10px;
+  display: grid;
+  
+}
+.button{
+    position: absolute;
+    width: 155px;
+    height: 50px;
+    left: 100px;
+top: 300px;
+background: linear-gradient(275.75deg, #196100 0%, #35B10A 100%);
+box-shadow: 15px 15px 30px rgba(66, 255, 0, 0.55)
+}

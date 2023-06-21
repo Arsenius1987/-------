@@ -1,0 +1,58 @@
+body{
+    background-size: cover;
+    background-color: #5b0bf0;
+}
+.container{
+    margin: 0px 166px;
+}
+.hedr-lin{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.but{
+    padding: 10px 10px;
+}
+.but1{
+    padding: 10px 10px;
+    background-color: yellow;
+}
+.nav{
+    padding: 25px;
+}
+.container1{
+    display: inline-block;
+}
+.h1{
+  
+   color: azure;
+}
+.h5{
+    color: aliceblue;
+}
+.tex{
+    color: aliceblue;
+}
+.ittem{
+ text-align: center;
+ display: inline-table;
+}
+.ittem1{
+    text-align: center;
+    display: inline-table;
+  
+   }
+   .item-item_4{
+    position: relative;
+    top: 50px;
+   }
+   .item-item_5{
+    position: relative;   
+   text-align: end; 
+
+}
+.container1{
+    position: relative;
+    top: 100px;
+}

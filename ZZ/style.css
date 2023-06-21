@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(241, 202, 215);
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+p{
+    padding: 10px 10px 10px 10px;
+    color: azure;
+    background-color: rgb(214, 145, 145);
+
+}
+b{
+    padding: 10px 10px 10px 10px;
+    background-color: brown;
+}
